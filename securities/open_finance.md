@@ -4,13 +4,13 @@ Name  OpenFinance Network
 [Website](https://www.openfinance.io/)  
 Year founded:  
 Currency: coin OR token [](https://coinmarketcap.com/...)  
-## Staff (as much as found)
+## Team  
 Founder [](../people/*.md)  
 Cofounder [](../people/*.md)  
 etc.
-## Business Model
-details  
-## Contacts
+## Description  
+The Open Finance Network is a protocol for the end to end processing of security token transaction. The initial focus of the platform has been the clearing and settlement process for security tokens acting as a broker between different market actors such as custodians, token issuers or transfer agents. Saving the distance, you should not think of Open Finance as the Nasdaq of security tokens but more like the Bloomberg of the space.  
+## Contacts  
 [GitHub]()  
 [Bitcointalk]()   
 [Facebook]()   
@@ -20,7 +20,7 @@ details
 [Slack]()  
 [Reddit]()  
 etc.  
-## About (could be useful links, necessary info)  
+## About   
 
 ## News
 
